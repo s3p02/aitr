@@ -12,3 +12,5 @@ Bytecode interpreted
 MRI
 Jruby
 MacRuby
+
+IRB - Interactive Ruby
